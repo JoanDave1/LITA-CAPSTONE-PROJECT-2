@@ -22,6 +22,20 @@ The purpose of this analysis is to:
 - *Data Source*: This dataset was provided by the facilitators of Ladies in Tech Africa(LITA) for Data Analysis track.
 - *Data Cleaning*: I imported the dataset into Microsoft Excel. Afterwards, I proceeded to claen my dataset using the "Remove Duplicates" feature available on the "Data" tab to remove values occurring more than once. My dataset of about 75,000+ records was reduced to 33,788 records of sales. There were no other errors present in this dataset. 
 - *Relevant Computations*: Using pivot tables, I was able to identify the popular subscriptions based on the number of customers and revenue generated as well as the cancellation of each subscription type based on total number of customers.
+  
+ The table below shows the count of customers that subscribed for each subscription type.
+ 
+![image](https://github.com/user-attachments/assets/dc763878-fdd5-43a2-8c46-29b012ae93fc)
+
+The pivot table below shows the amount of revenue generated from each region.
+
+![image](https://github.com/user-attachments/assets/2f192059-3d29-4980-8f30-9700cc99bd2e)
+
+This table below shows the cancellation count by customer ID for each subscription type.
+
+![image](https://github.com/user-attachments/assets/042bcb18-13f5-4141-85c3-26dac3aec691)
+
+
 
 #### SQL: 
 
@@ -100,3 +114,7 @@ Using SQL queries, I was able to find:
       SUM(CASE WHEN Canceled = '1' THEN 1 ELSE 0 END) AS Cancelled_Subscriptions
   
       FROM CustomerData
+
+#### Power BI: 
+
+
