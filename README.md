@@ -116,7 +116,9 @@ Using SQL queries, I was able to find:
       FROM CustomerData
 
 #### Power BI: 
+Power BI (BI meaning Business Intelligence) is a data visualization tool that allows users to connect to various data sources, create interactive visualizations and business intelligence dashboards. I made use of power bi to viaualize my data and extract meaningful insights.
 
+The images below are visual representations of some of the relavant computations in this dataset. I inserted slicers for the years 2023 and 2024 and for different regions to show specific information.
 
 ------
 The image below gives a proper visualication of relevant information from this data set. 
