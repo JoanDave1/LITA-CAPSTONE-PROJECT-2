@@ -117,6 +117,7 @@ Using SQL queries, I was able to find:
 
 #### Power BI: 
 
+
 ------
 The image below gives a proper visualication of relevant information from this data set. 
 It reveals the following:
