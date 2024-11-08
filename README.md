@@ -153,5 +153,36 @@ This image below shows all the information for the year "2024".
 
 ![Screenshot (179)](https://github.com/user-attachments/assets/a021f5bc-8f54-4a10-907c-b70d34ec4eb5)
 
+------------
+### 2.3 Results
+
+OVERALL CUSTOMER SUBSCRIPTION PERFORMANCE 
+
+SUBSCRIPTION TYPE
+
+- Insights:
+  
+     1. The "Basic" subscription type is the most popular among customers indicating that it might be a cost effective option.
+     2. "Basic" subscription type generates a signifiacnt portion of the total revenue indicating a large customer base.
+
+- Recommendations:
+
+     1. Analyze consumer behaviour and preferences to better understand the reasons they prefer the Basic subscription type.
+     2. Develop targeted campaigns to upgrade "Basic" subscribers to higher level subscriptions highlighting the additional benefits and value.
+
+CANCELLATION STATUS
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
