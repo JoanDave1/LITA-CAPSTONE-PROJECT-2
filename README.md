@@ -179,7 +179,9 @@ CANCELLATION STATUS
 - Recommendations:
      1. Analyze the east region's strategies, customer demographics and satisfactory levels to identify best practices that can be applied to other regions.
      2. Gather feedback from customers with cancelled subscriptions to understand reasons for cancellation and improve services.
-     3. 
+     3. Implement personalized communication strategies to win back cancelled customers and prevent future cancellations.
+     4. Develop region-specific offers or promotions to serve as an incentive to customers in cancellation-prone regions to maintain their subscriptions.
+     5. Continuously monitor cancrllation rates and analyze customer behaviour to identify trends and areas for improvement. 
   
   
   
