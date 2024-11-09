@@ -172,7 +172,17 @@ SUBSCRIPTION TYPE
 
 CANCELLATION STATUS
 
+- Insights:
+     1. There were more active subscriptions than inactive ones indicating a relatively high retention rate.
+     2. The East region is the only region with a 100% active subscription rate. Other regions have a mix of active and cancelled subscriptions.
 
+- Recommendations:
+     1. Analyze the east region's strategies, customer demographics and satisfactory levels to identify best practices that can be applied to other regions.
+     2. Gather feedback from customers with cancelled subscriptions to understand reasons for cancellation and improve services.
+     3. 
+  
+  
+  
 
 
 
